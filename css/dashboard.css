@@ -1,0 +1,55 @@
+#search{
+    height: 22px;
+    width: 25px;
+    margin-left:65px;
+}
+#profile{
+    height: 35px;
+    width: 35px;
+}
+#logo{
+    height: 40px;
+    width: 130px;
+    margin-left:12px;
+}
+
+    
+
+.logo1{
+    
+    height: 60px;
+    
+    margin: 15px 14px 14px 14px;
+
+}
+#search1{
+    width: 900px;
+    border-style: hidden;
+    margin-left:2px;
+}
+#notify{
+    margin-left:60px;
+}
+#profile{
+    margin-left:45px;
+}
+#name{
+    margin-left:15px;
+}
+#arrow{
+    margin: 15px;
+}
+.sidebar1{
+    width: 25px;
+    height: 25px;
+    margin: 10px 10px 10px 10px;
+}
+.sidebar{
+    position: relative;
+    left: 25px;
+}
+#maindiv{
+    background-color: #FFF3F4;
+    width: 225px;
+    color: #C8242F;
+}
