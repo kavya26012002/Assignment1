@@ -39,12 +39,12 @@
 #arrow{
     margin: 15px;
 }
-.sidebar1{
+#sidebar1{
     width: 25px;
     height: 25px;
     margin: 10px 10px 10px 10px;
 }
-.sidebar{
+#sidebar{
     position: relative;
     left: 25px;
 }
@@ -282,10 +282,6 @@ margin-top: 30px;
     color: #FF4545;
     background-color: #FFF5F5;
 }
-
-
-
-
 
 
 
