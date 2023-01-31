@@ -107,6 +107,23 @@
     width: 88%;
     border-radius: 5px;
 }
+.paid{
+    color: #3CDD5F;
+    background-color:#EBFFEF;
+    
+    
+    
+    
+}
+.pending{
+    color: #BABABA;
+    background-color: #F8F8F8;
+}
+.failed{
+    
+    color: #FF4545;
+    background-color: #FFF5F5;
+}
 @media (max-width:991px){
     .right{
         flex-direction: column;
@@ -140,6 +157,7 @@
     .sideboxes{
         display: none;
     }
+   
 }
 @media (max-width:361px){
     .disc1{
@@ -149,4 +167,6 @@
     .disc2{
         margin-left: 0%;
     }
+    button.navbar-toggler {
+        width: 14%;}
 }
